@@ -19,7 +19,7 @@ Welcome to Musedify! The Musedify Music Player App is designed to provide you wi
 
 ### Installation
 
-1. **Download the App**: Visit [Musedify Music Player App](https://www.musedify.com/download) to download the app for your preferred platform (iOS, Android, Windows, macOS).
+1. **Download the App**: Visit [Musedify Music Player App](https://github.com/dhiraj7kr/musedify-music-player-app) to download the app for your preferred platform (iOS, Android, Windows, macOS).
 2. **Install**: Follow the on-screen instructions to install the app on your device.
 3. **Sign Up / Log In**: Create a new account or log in with your existing credentials to get started.
 
@@ -46,7 +46,7 @@ We welcome contributions to enhance the Musedify Music Player App. To contribute
 Your feedback is invaluable to us! If you encounter any issues or have suggestions for improvements, please reach out through the following channels:
 
 - **Email**: support.dhiraj7kr@gmail.com
-- **GitHub Issues**: Report issues directly on our [GitHub repository](https://github.com/musedify/music-player-app/issues).
+- **GitHub Issues**: Report issues directly on our [GitHub repository](https://github.com/dhiraj7kr/musedify-music-player-app).
 - **Social Media**: Follow us on Twitter and Facebook for updates and news.
 
 ## License
