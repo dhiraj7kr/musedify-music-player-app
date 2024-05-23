@@ -1,4 +1,4 @@
-# musedify-music-player-app
+
 # Musedify Music Player App
 
 Welcome to Musedify! The Musedify Music Player App is designed to provide you with an unparalleled music listening experience. With a sleek, user-friendly interface and a host of powerful features, Musedify is your ultimate destination for enjoying your favorite tunes.
